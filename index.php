@@ -96,7 +96,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello, Selamat Datang di WEB 2</h1>
+        <h1>Hello, Selamat Datang di WEB Pertama</h1>
         <h2>App 1 berhasil dijalankan di port 2000 🚀</h2>
 
         <p>Perkenalkan saya <span class="highlight">Shelina Disty Fibriani</span><br>
