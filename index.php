@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello, Selamat Datang di WEB 2</title>
+    <title>Hello, Selamat Datang di WEB 1</title>
     <style>
         /* Background gradient animasi */
         body {
